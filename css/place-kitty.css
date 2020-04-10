@@ -18,8 +18,8 @@
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
-.wrapper.child[1]{
-  /*position: absolute;*/
+.wrapper #basket{
+  position: absolute;
   z-index: 5;
   top: 291px;
   left: 319px;
